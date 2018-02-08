@@ -1,0 +1,9 @@
+title = "Committee to Save America"
+baseURL = "https://books.mrewers.com"
+languageCode = "en-us"
+theme = "Librum"
+
+[params]
+  favicon = ""
+  description = "We've got you covered."
+  featured_image = "/images/bookshelf.jpg"
